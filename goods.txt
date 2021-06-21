@@ -4,3 +4,4 @@ Laptop
 Microphoneфлаг
 флаг
 bag
+машина
